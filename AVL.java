@@ -3,8 +3,7 @@ package cp213;
 /**
  * Implements an AVL (Adelson-Velsky Landis) tree. Extends BST.
  *
- * @author your name here
- * @author David Brown
+ * @author Beheashta Atchekzai
  * @version 2021-11-01
  */
 public class AVL<T extends Comparable<T>> extends BST<T> {
